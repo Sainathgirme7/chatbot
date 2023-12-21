@@ -1,0 +1,6 @@
+/* CSS styles for the image */
+img {
+  width: 64px; /* Adjust as needed */
+  height: 64px; /* This ensures the image maintains its aspect ratio */
+  /* Other styles */
+}
